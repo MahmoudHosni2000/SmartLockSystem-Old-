@@ -1,0 +1,14 @@
+#include <Servo.h>
+
+Servo servoMotor;
+
+void setup() {
+  servoMotor.attach(pinNumber); // Replace 'pinNumber' with the actual pin number connected to the servo motor
+}
+
+void loop() {
+  servoMotor.write(180); // Move servo to 180 degrees
+  delay(2000); // Wait for 2 seconds
+  servoMotor.write(0); // Move servo to 0 degrees (opposite direction)
+  delay(2000); // Wait for 2 seconds
+}

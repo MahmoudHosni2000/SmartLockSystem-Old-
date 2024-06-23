@@ -1,0 +1,16 @@
+servo motor
+red --> 5v
+brown --> GND
+orange --> 11 digital
+______
+hc-05 bluetooth
+RXD --> 13 digital
+TXD --> 12 digital
+______
+LCD i2c
+SDA --> A4
+SCL --> A5
+______
+Keyoad 4*4
+2 --> 9 (digital)
+left --> right
