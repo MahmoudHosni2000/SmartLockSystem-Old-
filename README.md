@@ -23,8 +23,9 @@ This Arduino-based project implements a smart lock system that uses a 4x4 keypad
     git clone https://github.com/yourusername/SmartLockSystem.git
     ```
 2. Open the `SmartLockSystem.ino` file in the Arduino IDE.
-3. Connect the components as per the circuit diagram.
-4. Upload the code to your Arduino board.
+3. Download app here https://kodular.app/DBU-DGJ
+4. Connect the components as per the circuit diagram.
+5. Upload the code to your Arduino board.
 
 ## Usage
 - Enter the predefined password using the keypad to unlock the door.
